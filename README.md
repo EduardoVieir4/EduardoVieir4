@@ -26,7 +26,7 @@ Atualmente atuo como Agente Administrativo no Coluni-UFF, onde:
 
 ## 📂 Projetos
 
-- 📌 Portfólio de Aprendizado em SQL (MySQL, PostgreSQL)
+- 📌 E-commerce-Funnel-Analysis (SQL, Excel)
 - 📌 Dashboard de Vendas em Power BI (DAX e KPIs)
 
 ## 🎯 Objetivo
