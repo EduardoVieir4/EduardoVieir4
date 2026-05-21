@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eduardo Vieira Nogueira
+# 👋 Olá, me Eduardo
 
 🎯 Estudante de Sistemas de Informação | Foco em Análise de Dados e Business Intelligence 
 
