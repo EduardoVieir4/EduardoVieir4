@@ -1,4 +1,4 @@
-# 👋 Olá, me Eduardo
+# 👋 Olá, me chamo Eduardo
 
 🎯 Estudante de Sistemas de Informação | Foco em Análise de Dados e Business Intelligence 
 
