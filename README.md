@@ -42,11 +42,11 @@ Projeto em desenvolvimento envolvendo automação, manipulação, tratamento e v
 
 ### 🚀 Atualmente Estudando
 
-Python para automação e análise de dados
-SQL para análise de dados
-Modelagem de Banco de Dados
-Power BI e visualização de indicadores
-Fundamentos de Tecnologia da Informação
+- Python para automação e análise de dados
+- SQL para análise de dados
+- Modelagem de Banco de Dados
+- Power BI e visualização de indicadores
+- Fundamentos de Tecnologia da Informação
 
 ## 📫 Contato
 
