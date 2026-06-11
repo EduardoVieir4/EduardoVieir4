@@ -1,39 +1,51 @@
 # 👋 Olá, me chamo Eduardo
 
-🎯 Estudante de Sistemas de Informação | Foco em Análise de Dados e Business Intelligence 
+🎓 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF
 
-Sou estudante da Universidade Federal Fluminense (UFF), atualmente no 4º período, com interesse em transformar dados em informações úteis para apoiar decisões e melhorar processos.
+Tenho experiência profissional em atendimento ao público, suporte operacional e relacionamento com diferentes áreas em ambientes de saúde e educação. Ao longo da minha trajetória, desenvolvi habilidades de comunicação, organização de informações, resolução de problemas e colaboração entre equipes.
 
-Tenho desenvolvido projetos práticos utilizando SQL e Power BI, além de aplicar organização, limpeza e análise de dados no meu ambiente profissional.
+Paralelamente, venho aprofundando meus conhecimentos em tecnologia por meio de estudos e projetos envolvendo SQL, Python, Banco de Dados e Power BI. Tenho interesse em áreas como Dados, Business Intelligence, Suporte de TI e melhoria de processos, sempre buscando utilizar a tecnologia para gerar mais eficiência e melhores experiências para os usuários.
 
-## 🛠️ Competências Técnicas
+## 🛠️ Tecnologias e Ferramentas
 
-- SQL (Intermediário)
-- Python (Básico)
-- Power BI (Básico – em evolução)
-- Excel (Intermediário)
-- Google Sheets e Forms
+- SQL
+- Python
+- Power BI
+- Excel
+- Google Sheets
+- Google Forms
 - Git e GitHub
 
-## 📊 Experiência com Dados
+## 📊 Experiência Profissional
 
-Atualmente atuo como Agente Administrativo no Coluni-UFF, onde:
+Atualmente atuo como Assistente Administrativo e de TI no Coluni-UFF, contribuindo com:
 
-- Realizo coleta, organização e limpeza de dados
-- Crio filtros e consultas para geração de relatórios
-- Automatizo processos em planilhas
-- Apoio a organização e padronização de informações administrativas
+- Organização e tratamento de informações administrativas
+- Elaboração de consultas, filtros e relatórios
+- Melhoria e padronização de processos internos
+- Atendimento e suporte a demandas de diferentes setores
+- Utilização de ferramentas digitais para controle e gestão de informações
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
-- 📌 E-commerce-Funnel-Analysis (SQL, Excel)
-- 📌 Dashboard de Vendas em Power BI (DAX e KPIs)
+📊 Dashboard de Vendas
+Projeto desenvolvido em Power BI para acompanhamento de indicadores e análise de desempenho comercial.
 
-## 🎯 Objetivo
+🛒 E-commerce Funnel Analysis
+Análise de dados utilizando SQL e Excel para avaliação do comportamento de clientes ao longo do funil de vendas.
 
-Busco oportunidade de estágio em Análise de Dados ou Business Intelligence, onde eu possa aplicar SQL, Power BI e Python em desafios reais, contribuindo com organização, análise e geração de insights.
+🐍 Projeto de Análise de Dados com Python
+Projeto em desenvolvimento envolvendo automação, manipulação, tratamento e visualização de dados utilizando Python e bibliotecas do ecossistema de dados.
+
+🚀 Atualmente Estudando
+Python para automação e análise de dados
+SQL para análise de dados
+Modelagem de Banco de Dados
+Power BI e visualização de indicadores
+Fundamentos de Tecnologia da Informação
 
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/eduardo-nogueira-25440519b
-- GitHub: github.com/EduardoVieir4
+- email: eduardo.nogueiiira@gmail.com
+- telefone: 21 99836-7183
