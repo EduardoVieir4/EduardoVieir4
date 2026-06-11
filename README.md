@@ -28,15 +28,15 @@ Atualmente atuo como Assistente Administrativo e de TI no Coluni-UFF, contribuin
 
 ## 📂 Projetos em Destaque
 
-📊 Dashboard de Vendas
+### 📊 Dashboard de Vendas
 
 Projeto desenvolvido em Power BI para acompanhamento de indicadores e análise de desempenho comercial.
 
-🛒 E-commerce Funnel Analysis
+### 🛒 E-commerce Funnel Analysis
 
 Análise de dados utilizando SQL e Excel para avaliação do comportamento de clientes ao longo do funil de vendas.
 
-🐍 Projeto de Análise de Dados com Python
+### 🐍 Projeto de Análise de Dados com Python
 
 Projeto em desenvolvimento envolvendo automação, manipulação, tratamento e visualização de dados utilizando Python e bibliotecas do ecossistema de dados.
 
