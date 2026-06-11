@@ -40,7 +40,8 @@ Análise de dados utilizando SQL e Excel para avaliação do comportamento de cl
 
 Projeto em desenvolvimento envolvendo automação, manipulação, tratamento e visualização de dados utilizando Python e bibliotecas do ecossistema de dados.
 
-🚀 Atualmente Estudando
+### 🚀 Atualmente Estudando
+
 Python para automação e análise de dados
 SQL para análise de dados
 Modelagem de Banco de Dados
