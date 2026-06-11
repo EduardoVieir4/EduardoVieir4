@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Eduardo
 
-🎓 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF
+🎓 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF)
 
 Tenho experiência profissional em atendimento ao público, suporte operacional e relacionamento com diferentes áreas em ambientes de saúde e educação. Ao longo da minha trajetória, desenvolvi habilidades de comunicação, organização de informações, resolução de problemas e colaboração entre equipes.
 
