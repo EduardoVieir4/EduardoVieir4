@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Eduardo
+# Olá, me chamo Eduardo
 
 🎓 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF)
 
@@ -36,7 +36,7 @@ Projeto desenvolvido em Power BI para acompanhamento de indicadores e análise d
 
 Análise de dados utilizando SQL e Excel para avaliação do comportamento de clientes ao longo do funil de vendas.
 
-### 🐍 Projeto de Análise de Dados com Python
+### 🐍 TechStore Analytics - Análise de Dados e Dashboard com Python 
 
 Projeto em desenvolvimento envolvendo automação, manipulação, tratamento e visualização de dados utilizando Python e bibliotecas do ecossistema de dados.
 
